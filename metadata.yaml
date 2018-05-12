@@ -1,10 +1,16 @@
 _repo: Altes-und-Neues-uber-Karl-Stulpner-mit-Benutzung-der-Schonberg-schen-Aufzeichnungen_47758
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47758-h/images/cover.jpg
 creator:
   author:
     agent_name: Lungwitz, Hermann
     gutenberg_agent_id: '44463'
     url: http://www.gutenberg.org/2009/agents/44463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47758#Altes-und-Neues-uber-Karl-Stulpner-mit-Benutzung-der-Schonberg-schen-Aufzeichnungen
 gutenberg_issued: '2014-12-24'
 gutenberg_type: Text
 identifiers:
